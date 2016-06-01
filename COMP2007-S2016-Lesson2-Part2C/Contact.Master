@@ -1,5 +1,9 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contact.master.cs" Inherits="COMP2007_S2016_Lesson2_Part2C.Contact1" %>
-
+<!--Name: Nathan Siu
+    Website Name: Nathan Siu portfolio
+    Page Description: This is the master page for the contact form
+    File Name: Contact.Master
+--> 
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">

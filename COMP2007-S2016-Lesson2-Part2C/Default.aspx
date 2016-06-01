@@ -1,5 +1,8 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="COMP2007_S2016_Lesson2_Part2C.Default" %>
-
+<!--Name: Nathan Siu
+    Website Name: Nathan Siu portfolio
+    Page Description: This is the default page
+-->
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <body id="homepage">
         <div id="name" class="container">

@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Contact.Master" AutoEventWireup="true" CodeBehind="ContactMe.aspx.cs" Inherits="COMP2007_S2016_Lesson2_Part2C.WebForm1" %>
-
+<!--Name: Nathan Siu
+    Website Name: Nathan Siu portfolio
+    Page Description: This is the contact form
+    File Name: ContactMe.aspx
+-->
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <!--the contact form -->
     <body id="contactform">
         <div id="form" class="container">
             <div class="row">
@@ -36,4 +41,5 @@
             </div>
         </div>
     </body>
+    <!-- this is the end of the form-->
 </asp:Content>

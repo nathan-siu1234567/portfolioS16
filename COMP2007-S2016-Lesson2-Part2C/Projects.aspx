@@ -1,5 +1,9 @@
 ﻿<%@ Page Title="Projects" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="COMP2007_S2016_Lesson2_Part2C.Products" %>
-
+<!--Name: Nathan Siu
+    Website Name: Nathan Siu portfolio
+    Page Description: This is the about me page it contains all my past work
+    File Name: Projects.aspx
+--> 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <body id="projects">
 
@@ -11,6 +15,7 @@
             </div>
 
         </div>
+        <!--This is the projects section-->
         <div id="projectcontent"class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -36,5 +41,6 @@
                 </div>
             </div>
         </div>
+        <!--end of project section-->
     </body>
 </asp:Content>
