@@ -1,2 +1,46 @@
 ﻿body {
 }
+#name {
+    padding-top: 130px;
+}
+#projects{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#aboutcontent{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#service{
+     padding-top: 80px;
+    padding-bottom: 80px;
+}
+#contactform{
+    padding-top: 80px;
+    overflow:scroll;
+    padding-bottom: 80px;
+}
+#firstname
+{   
+ font-family: avenir;
+ font-size: 500%;
+}
+hr
+{
+    max-width: 500px;
+}
+
+#homepage{
+
+    position: relative;
+    width:100%;
+    min-height:100vh;
+    text-align:center;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../images/header2.jpg');
+    color:white;
+}
+#copyright{
+    font-size:medium;
+}
