@@ -1,10 +1,11 @@
 ﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="COMP2007_S2016_Lesson2_Part2C.About" %>
-<!--Name: Nathan Siu
+
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <!--Name: Nathan Siu
     Website Name: Nathan Siu portfolio
     Page Description: This is the about me page it contains information about me
     File Name: About.aspx
 --> 
-<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <body id="aboutcontent">
         <div class="container">
             <!-- the main content will be inside the jumbotron-->
