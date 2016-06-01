@@ -7,7 +7,7 @@
                 <h1 id="firstname">Nathan Siu</h1>
                 <hr>
                 <p>Computer Programmer, Developer In Training, Student </p>
-                <a href="About.aspx" class="btn btn-primary">About Me</a>
+                <a href="Projects.aspx" class="btn btn-primary">See My Work</a>
             </div>
         </div>
     </body>

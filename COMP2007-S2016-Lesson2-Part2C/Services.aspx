@@ -3,8 +3,24 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <body id="service">
 
-    <div class="container">
-        <h1>Services Page</h1>
-    </div>
-     </body>
+        <div class="container">
+            <div class="jumbotron">
+                <h1>Services Page</h1>
+                <p>
+                    Minor laptop repairs,
+
+                    Virus removal,
+
+                    Website development,
+
+                   Mobile applications development,
+
+                    Windows Installation,
+
+                    Adobe Photoshop,
+                    more coming soon...
+                </p>
+            </div>
+        </div>
+    </body>
 </asp:Content>
