@@ -67,7 +67,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\CustomStyles.css" />
+    <Content Include="images\chicken.png" />
     <Content Include="images\header2.jpg" />
+    <Content Include="images\johnweber.JPG" />
+    <Content Include="images\traeger.jpg" />
     <Content Include="packages.config" />
     <Content Include="Site.Master" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />

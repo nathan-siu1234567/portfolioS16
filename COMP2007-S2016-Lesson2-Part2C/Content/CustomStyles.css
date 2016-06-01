@@ -1,11 +1,24 @@
 ﻿body {
 }
+
 #name {
     padding-top: 130px;
 }
 #projects{
     padding-top: 80px;
     padding-bottom: 80px;
+    
+   
+}
+#projectcontent{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+#projects h1{
+    text-align: center;
+}
+#projects p{
+    padding-top: 20px;
 }
 #aboutcontent{
     padding-top: 80px;
@@ -21,9 +34,10 @@
     padding-bottom: 80px;
 }
 #firstname
-{   
- font-family: avenir;
+{  
+ font-family: 'Montserrat', sans-serif;
  font-size: 500%;
+
 }
 hr
 {
